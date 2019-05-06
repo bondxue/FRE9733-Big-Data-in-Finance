@@ -142,7 +142,7 @@ I adopt three topic models to group 2000 reviews
  
  #### Summary
 + **NMF with tf** performaces ok with some unclear topics.
-+ **Lda with tf** is not doing so good in this study case, all reviews are grouped into one topic and the topic is not clear. 
++ **LDA with tf** is not doing so good in this study case, all reviews are grouped into one topic and the topic is not clear. 
 + **NMF with tf-idf** is the best model with no obsure optics and even correctly associated a topic with a specific movie.
 
 
