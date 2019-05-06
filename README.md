@@ -101,7 +101,7 @@ For **LR**：
 
 <img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework11-SentimentAnalysisMovieReview/images/LR.PNG" width="800">
 
-For **svm**:
+For **SVM**:
 
 <img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework11-SentimentAnalysisMovieReview/images/SVM.PNG" width="800">
 
