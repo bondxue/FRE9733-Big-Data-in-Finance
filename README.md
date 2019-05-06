@@ -50,6 +50,8 @@ We try to use different *data transformation* techniques to improve prediction p
 We use five classification models, i.e., **Naïve Bayesian**, **Decision Tree**, **SVM**, **Logistic Regression** and **ANN** to predict loan fallout. 
 
 #### Compare the model performance by ROC, Precision, Recall, and F-Score
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework5-LoanFalloutPrediction/images/roc.PNG" width="1000">
+
 
 | | LR | NB |  SVM  | ANN | DT |
 | --- | --- | --- | --- | --- | --- |
@@ -71,10 +73,14 @@ We use five classification models, i.e., **Naïve Bayesian**, **Decision Tree**,
 Conduct **K-Means** and **Hierarchical Clustering** algorithms to segment customers in `Mocked_Customer_Data.xlsx`.
 
 #### Visualizing the k-mean clusters
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework7-Part1-CustomerClustering/images/k-mean.PNG" width="700">
+
 * For visulizing purpose, we only choose `normalized yahoo air` and `normalized total air` to draw the pair-wise plot to show our *k-mean clustering* performance.
 * One improvement method is that we could use **PCA** to reduce the dimension of input features， which can reduce the correlation between each features then achieve better clustering performance.
 
 #### Dendrogram plot for hierarchical clustering 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework7-Part1-CustomerClustering/images/dendrogram.PNG" width="700">
+
 + Since it takes so long to plot *dendrogram* for the whole dataset, I just use the first 1000 data to demonstrate dendrogram.
 + We could see that if we just use the first 10000 data, 2 clusters may be the best choices.
 
@@ -84,6 +90,7 @@ Conduct **K-Means** and **Hierarchical Clustering** algorithms to segment custom
 ### part 1: sentiment analysis model
 #### Dataset
 Download 2000 reviews from the following link:
+
 http://www.cs.cornell.edu/people/pabo/movie-review-data/review_polarity.tar.gz
 
 #### Model 
@@ -92,7 +99,11 @@ Build a Sentiment Analysis model by comparing three classifiers, i.e., **Logisti
 #### Word importance visualization 
 For **LR**：
 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework11-SentimentAnalysisMovieReview/images/LR.PNG" width="800">
+
 For **svm**:
+
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/homework11-SentimentAnalysisMovieReview/images/SVM.PNG" width="800">
 
 #### Summary 
 Based on our experiments, we find that **logistic regression** achieves the best accuracy performance at 0.86, which is very promising since we only choose the simple parameter setting and haven't done *regularzation*. We can continue to improve the model accuracy by regularization. Also, our dataset only contains 2000 reviews. We believe we can improve our model performance if we can extend our dataset.
