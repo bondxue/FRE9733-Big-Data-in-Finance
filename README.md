@@ -1,7 +1,4 @@
 # FRE9733-Big-Data-in-Finance
-homeworks for big data course
-
-**Update soon...**
 
 -----------------------
 ## homework 1: longley dateset analysis using linear regression
