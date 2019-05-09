@@ -161,7 +161,3 @@ To design, build and validate a sentiment model based on social media data
 6. Come up with a method to improve the performance (bonus point) 
 7. Visualize your result 
 8. Summarize your finding into a brief report
-
-
-
-
