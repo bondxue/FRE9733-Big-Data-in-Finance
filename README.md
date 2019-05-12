@@ -145,10 +145,19 @@ I adopt three topic models to group 2000 reviews
 + **LDA with tf** is not doing so good in this study case, all reviews are grouped into one topic and the topic is not clear. 
 + **NMF with tf-idf** is the best model with no obsure optics and even correctly associated a topic with a specific movie.
 
-
-
-
-
-
-
-
+----------------------------------------------
+## final project： social media sentiment analysis
+**updating soon..**
+### Objective 
+To design, build and validate a sentiment model based on social media data
+### Guidance: 
+1. Download 2000+ Tweets by calling Twitter's API (or from any other social media source), and save them into a corpus
+2. Come up with a method to tag each tweet into Positive, Negative, or Neutral Hints: There are at least two ways to do it: 
+  * Use emoticons to identify positive & negative sentiment 
+  * Use the dictionary of positive and negative words (attached) to identify positive and negative Tweets   
+3. Split the corpus into a training set and a validation set 
+4. Apply two classifiers to build a sentiment model (clean and transform data as needed) 
+5. Compare the model performance using precision/recall & ROC, and apply cross validation 
+6. Come up with a method to improve the performance (bonus point) 
+7. Visualize your result 
+8. Summarize your finding into a brief report
