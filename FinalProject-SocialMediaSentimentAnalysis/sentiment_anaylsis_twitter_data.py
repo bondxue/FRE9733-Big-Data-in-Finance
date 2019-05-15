@@ -42,8 +42,7 @@ class TwitterClient():
         for tweet in Cursor(self.twitter_client.home_timeline, id=self.twitter_user).items(num_tweets):
             home_timeline_tweets.append(tweet)
         return home_timeline_tweets
-
-
+    
 # # # # TWITTER AUTHENTICATER # # # #
 class TwitterAuthenticator():
 
@@ -124,8 +123,8 @@ class TweetAnalyzer():
         df['retweets'] = np.array([tweet.retweet_count for tweet in tweets])
 
         return df
-
- 
+    
+    
 if __name__ == '__main__':
    twitter_client = TwitterClient()
    tweet_analyzer = TweetAnalyzer()
