@@ -1,11 +1,11 @@
 tweets,id,len,date,source,likes,retweets
-"b""RT @ABC: HAPPENING NOW: Paris celebrates the Eiffel Tower's 130th anniversary. https://t.co/u3Ote9jTP7""",1128756289516052482,102,2019-05-15 20:17:25,TweetDeck,0,254
+"b""RT @ABC: HAPPENING NOW: Paris celebrates the Eiffel Tower's 130th anniversary. https://t.co/u3Ote9jTP7""",1128756289516052482,102,2019-05-15 20:17:25,TweetDeck,0,264
 b'RT @jonfortt: Is @SoftBank Spoiling Silicon Valley? | #ForttKnox @MikeIsaac \n\nhttps://t.co/TFlMBqn9hf',1128722560823234560,101,2019-05-15 18:03:23,TweetDeck,0,5
-"b""RT @ABC: HAPPENING NOW: Pres. Trump delivers remarks at the 38th National Peace Officers' Memorial Service. https://t.co/wCRLed9yHH""",1128689439830675456,131,2019-05-15 15:51:47,TweetDeck,0,108
-b'RT @ABC: HAPPENING NOW: Senate Judiciary Chair Lindsey Graham holds news conference on immigration. https://t.co/llQZ89fVox',1128663817695715330,123,2019-05-15 14:09:58,TweetDeck,0,197
+"b""RT @ABC: HAPPENING NOW: Pres. Trump delivers remarks at the 38th National Peace Officers' Memorial Service. https://t.co/wCRLed9yHH""",1128689439830675456,131,2019-05-15 15:51:47,TweetDeck,0,111
+b'RT @ABC: HAPPENING NOW: Senate Judiciary Chair Lindsey Graham holds news conference on immigration. https://t.co/llQZ89fVox',1128663817695715330,123,2019-05-15 14:09:58,TweetDeck,0,198
 "b'RT @NBCNews: LIVE: Alabama Senate debates bill that would ban nearly all abortions.\n\nIf the bill becomes law, it would be the strictest abo\xe2\x80\xa6'",1128409312768999426,140,2019-05-14 21:18:39,TweetDeck,0,350
 "b""RT @NewsHour: WATCH LIVE: Trump set to discuss 'energy infrastructure and economic growth' during visit to Louisiana https://t.co/gMFR22ufbg""",1128379979752976384,140,2019-05-14 19:22:06,TweetDeck,0,6
-b'RT @nytimes: The US and China escalated their trade fight on Monday as China detailed plans to retaliate against President Donald Trump\xe2\x80\x99s h\xe2\x80\xa6',1128006346148806657,140,2019-05-13 18:37:24,TweetDeck,0,61
+b'RT @nytimes: The US and China escalated their trade fight on Monday as China detailed plans to retaliate against President Donald Trump\xe2\x80\x99s h\xe2\x80\xa6',1128006346148806657,140,2019-05-13 18:37:24,TweetDeck,0,60
 b'RT @jbouie: Chatting about my @nytopinion column on structural reform and the problem of the Senate. Ask me questions! https://t.co/Fq0hLzb\xe2\x80\xa6',1128006265404370948,140,2019-05-13 18:37:05,TweetDeck,0,26
 b'RT @Circa: Former Vice President Joe Biden makes his first presidential campaign visit to New Hampshire with a meet and greet in Hampton. h\xe2\x80\xa6',1127977429002260480,140,2019-05-13 16:42:30,TweetDeck,0,11
 b'RT @CNBC: WATCH: Dow plunges 650 points after China retaliates with tariff hikes. https://t.co/lCt4Gpgkza',1127977406332112897,105,2019-05-13 16:42:25,TweetDeck,0,73
@@ -48,7 +48,7 @@ b'RT @AJEnglish: \xe2\x9a\xa1\xef\xb8\x8f What does #PressFreedom look like toda
 "b'RT @jonfortt: The Endgame in Streaming for Disney, and Apple\xe2\x80\x99s Upside | Fortt Knox https://t.co/7QFGeJSgx6'",1124377382100635651,106,2019-05-03 18:17:12,TweetDeck,0,8
 "b'Coming \xf0\x9f\x94\x9c, we\xe2\x80\x99ll spotlight @JujuChangABC, @TanzinaVega &amp; many more incredible female storytellers, so stay tuned. Wh\xe2\x80\xa6 https://t.co/p54o6op0aV'",1124373402444292097,144,2019-05-03 18:01:23,Twitter Web App,14,6
 "b'RT @TwitterMedia: This #WorldPressFreedomDay, hear from the women on the front lines of journalism. \n\n#HerStory by @TwitterNews highlights\xe2\x80\xa6'",1124371215748145152,139,2019-05-03 17:52:42,TweetDeck,0,17
-"b'With her finger on the pulse of #BlackTwitter, @SylviaObell, is able to harness &amp; foster powerful conversations. Sh\xe2\x80\xa6 https://t.co/fllKvmCeei'",1124344178375372801,144,2019-05-03 16:05:16,Twitter Web App,705,63
+"b'With her finger on the pulse of #BlackTwitter, @SylviaObell, is able to harness &amp; foster powerful conversations. Sh\xe2\x80\xa6 https://t.co/fllKvmCeei'",1124344178375372801,144,2019-05-03 16:05:16,Twitter Web App,706,63
 b'Hear from @rcallimachi who covers ISIS for @nytimes and travels to war-torn countries to report from the frontlines\xe2\x80\xa6 https://t.co/hPuve8yAa2',1124329613247881216,140,2019-05-03 15:07:23,Twitter Web App,532,66
 "b'In the face of adversity, @mariaressa, founder, CEO, and executive editor of @rapplerdotcom leads the charge to\xe2\x80\xa6 https://t.co/6jXdQVj8IK'",1124312801432997889,136,2019-05-03 14:00:35,Twitter Web App,1275,261
 "b'To launch #HerStory on #WorldPressFreedomDay, we asked these women journalists about #pressfreedom\n\n\xf0\x9f\x94\xb9@mariaressa fr\xe2\x80\xa6 https://t.co/os2C6Ad3gy'",1124306674540601347,140,2019-05-03 13:36:14,Twitter Web App,99,46
@@ -60,7 +60,7 @@ b'#HerStory features women journalists with diverse backgrounds and focus areas.
 b'Informing the world and holding the powerful to account is too important to be silenced or hindered. We know Twitte\xe2\x80\xa6 https://t.co/gPnKto4QCe',1124040663543185408,140,2019-05-02 19:59:12,Twitter Web Client,24,3
 "b'We need to highlight this gender inequality as often as possible, but especially on #WorldPressFreedomDay, when so\xe2\x80\xa6 https://t.co/mqymCydFAq'",1124040662310166528,139,2019-05-02 19:59:12,Twitter Web Client,29,4
 "b'Women journalists are essential to the storytelling landscape, and far too often face obstacles while doing their j\xe2\x80\xa6 https://t.co/JKAJgEcUO2'",1124040661613907968,140,2019-05-02 19:59:12,Twitter Web Client,41,9
-"b'We\xe2\x80\x99re excited to announce the launch of #HerStory, Twitter\xe2\x80\x99s new, monthly original video series highlighting the wo\xe2\x80\xa6 https://t.co/lP5CPaLOi1'",1124040660649152512,140,2019-05-02 19:59:11,Twitter Web Client,1553,238
+"b'We\xe2\x80\x99re excited to announce the launch of #HerStory, Twitter\xe2\x80\x99s new, monthly original video series highlighting the wo\xe2\x80\xa6 https://t.co/lP5CPaLOi1'",1124040660649152512,140,2019-05-02 19:59:11,Twitter Web Client,1554,238
 "b'RT @Refinery29: In honor of World Press Freedom Day on May 3, Twitter is spotlighting female voices in journalism around the world with the\xe2\x80\xa6'",1124024068611694592,140,2019-05-02 18:53:15,TweetDeck,0,89
 b'RT @pressfreedom: \xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cPress Freedom This Moment: #RememberingFallenJournalists\xe2\x80\x9d\n\nhttps://t.co/1CgT2iE0Ew',1123998036345094149,104,2019-05-02 17:09:49,TweetDeck,0,12
 b'RT @NewsHour: WATCH LIVE: President Trump holds National Day of Prayer service at the White House https://t.co/h69k6VCA10',1123968050053644288,121,2019-05-02 15:10:40,TweetDeck,0,19
@@ -413,7 +413,7 @@ b'RT @watchstitch: \xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cHow families affected by
 b'RT @ABCPolitics: HAPPENING NOW: The @ABCPolitics team has the top stories in politics https://t.co/XsHyrO7kI9',1088172432635166725,109,2019-01-23 20:31:39,TweetDeck,0,23
 "b'RT @ABC: HAPPENING NOW: House Speaker Nancy Pelosi speaks at U.S. Conference of Mayors in Washington, D.C. https://t.co/oiSHWJAhOe'",1088154383290957824,130,2019-01-23 19:19:56,TweetDeck,0,226
 b'RT @tictoc: WATCH LIVE: A discussion on how to protect the ocean with special guests\n\n-Al Gore (@algore)\n-Marc Benioff (@Benioff)\n-Enric Sa\xe2\x80\xa6',1088115650877374465,140,2019-01-23 16:46:02,TweetDeck,0,36
-b'RT @ABC: HAPPENING NOW: Day 33 of the government shutdown and more top stories from @ABC News https://t.co/zhLh9QBF4c',1088104737877176320,117,2019-01-23 16:02:40,Twitter for  iPhone,0,123
+b'RT @ABC: HAPPENING NOW: Day 33 of the government shutdown and more top stories from @ABC News https://t.co/zhLh9QBF4c',1088104737877176320,117,2019-01-23 16:02:40,Twitter for  iPhone,0,122
 "b""RT @tictoc: Send us your questions.  \n\nWe're streaming a panel discussion on how to protect the ocean with: \n\n-Al Gore (@algore)\n-Marc Beni\xe2\x80\xa6""",1088090931247628289,140,2019-01-23 15:07:48,TweetDeck,0,18
 b'RT @ABC: HAPPENING NOW: Teachers union and Los Angeles Unified School District hold news conference on tentative agreement to end strike. h\xe2\x80\xa6',1087918193392435200,140,2019-01-23 03:41:24,Twitter for  iPhone,0,57
 b'RT @NewsHour: WATCH on #Periscope: Leaders from @LASchools and the teachers union (@UTLAnow) hold a joint news conference. Teachers in the\xe2\x80\xa6',1087767489499578368,139,2019-01-22 17:42:33,TweetDeck,0,16
@@ -570,7 +570,7 @@ b'RT @NBCNews: BREAKING: Former President George H.W. Bush has died at age 94. h
 b'RT @ABC: BREAKING: Former President George H.W. Bush has died at age 94. https://t.co/ZmHNxP45TZ https://t.co/z7BzZi6f5E',1068732814353412096,120,2018-12-01 05:05:33,Twitter for  iPhone,0,2673
 b'RT @ABCPolitics: HAPPENING NOW: The Briefing Room is live from #G20 with the top stories in politics https://t.co/GLHG90umI8',1068604517279625216,124,2018-11-30 20:35:45,TweetDeck,0,8
 b'Tsunami warning lifted following Alaska #earthquake https://t.co/ILSvzXZwHN',1068601205050548230,75,2018-11-30 20:22:35,TweetDeck,27,12
-b'RT @ABC: ABC NEWS SPECIAL REPORT: The latest updates on the 7.0 Alaska earthquake. https://t.co/It8BMt1cCc',1068591335207329792,106,2018-11-30 19:43:22,TweetDeck,0,313
+b'RT @ABC: ABC NEWS SPECIAL REPORT: The latest updates on the 7.0 Alaska earthquake. https://t.co/It8BMt1cCc',1068591335207329792,106,2018-11-30 19:43:22,TweetDeck,0,314
 "b'RT @NBCNews: LIVE: @NBCNews Special Report: Powerful earthquake strikes near Anchorage, Alaska, causes ""major infrastructure damage,"" polic\xe2\x80\xa6'",1068589670890725377,140,2018-11-30 19:36:45,Twitter for  iPhone,0,237
 b'RT @ABC: HAPPENING NOW: World leaders arrive at G-20 and more top stories from @ABC News https://t.co/N1bsSYRPCn',1068535509633441792,112,2018-11-30 16:01:32,TweetDeck,0,30
 "b'RT @NBCNews: LIVE: President Trump joins world leaders at the G20 summit in Buenos Aires, Argentina. https://t.co/r7UUUSYXOo'",1068525518901829633,124,2018-11-30 15:21:50,TweetDeck,0,120
@@ -594,14 +594,14 @@ b'RT @vicenews: HERE WE GO.\n\n@NASA is landing on Mars right now.\n\nWatch a li
 b'@TwitterMusic @Twitter @NASAInSight @MarsCuriosity It\xe2\x80\x99s almost time for the #MarsLanding! https://t.co/fXJ3F2FqZo',1067131471431942145,113,2018-11-26 19:02:23,Twitter Web Client,34,0
 b'\xf0\x9f\x9a\x80 LIVE Now: #MarsLanding is happening \xf0\x9f\x94\x9c\n\xf0\x9f\x93\xb1 Tune in via @vicenews\n\xf0\x9f\x92\xac Join the conversation using #NewSpaceRace\xe2\x81\xa0 \xe2\x81\xa0\n\xf0\x9f\x93\x8c Wa\xe2\x80\xa6 https://t.co/ml40pzzR4R',1067122768720920576,140,2018-11-26 18:27:48,TweetDeck,1681,386
 "b""RT @vicenews: Today's the day, NASA is going back to Mars. And this time they're going under the surface. This is why.\n\nDon't miss InSight'\xe2\x80\xa6""",1067119532324659200,140,2018-11-26 18:14:57,TweetDeck,0,39
-"b""Coming \xf0\x9f\x94\x9c: @NASAInSight's lander is scheduled to land on Mars today. See the latest #MarsLanding updates plus other\xe2\x80\xa6 https://t.co/2eLP9Aq7Ky""",1067117356911075329,139,2018-11-26 18:06:18,TweetDeck,1853,600
+"b""Coming \xf0\x9f\x94\x9c: @NASAInSight's lander is scheduled to land on Mars today. See the latest #MarsLanding updates plus other\xe2\x80\xa6 https://t.co/2eLP9Aq7Ky""",1067117356911075329,139,2018-11-26 18:06:18,TweetDeck,1852,600
 "b""Have questions for @valkipnis and @Taylor_Wilson about today's #MarsLanding? Tweet them using  #NewSpaceRace \xe2\xac\x87\xef\xb8\x8f https://t.co/bTgRZCcNS2""",1067092846698799105,135,2018-11-26 16:28:54,TweetDeck,45,11
 "b""RT @vicenews: What does it take to land something on Mars?\n\nWe'll be LIVE at @NASAJPL today for the landing of @NASAInSight on the #NewSpac\xe2\x80\xa6""",1067080201149005832,140,2018-11-26 15:38:40,TweetDeck,0,14
 b'Happening tomorrow: Tune into #NewSpaceRace at 1:30 pm ET/10:30 am PT \xe2\xac\x87\xef\xb8\x8f https://t.co/eAPZlGEeKi',1066746479648350209,96,2018-11-25 17:32:34,Twitter for iPhone,62,16
 b'RT @Reuters: NASA discusses upcoming Mars landing https://t.co/P87GhmzSGL',1065330579275726849,73,2018-11-21 19:46:17,TweetDeck,0,176
 "b""\xf0\x9f\x9a\x80 Happening Now: Vice News' is LIVE on @Twitter\n\xf0\x9f\x93\xb1 Tune in via @vicenews\n\xf0\x9f\x92\xac Join the conversation using #NewSpaceRace\xe2\x80\xa6 https://t.co/FlRA6DA0XG""",1064955599715254274,140,2018-11-20 18:56:15,TweetDeck,360,54
 "b""\xf0\x9f\x9a\x80 Happening Now: Vice News' is LIVE on @Twitter\n\xf0\x9f\x93\xb1 Tune in via @vicenews\n\xf0\x9f\x92\xac Join the conversation using #NewSpaceRace\xe2\x80\xa6 https://t.co/bDRScdMVPV""",1064593789770244099,140,2018-11-19 18:58:33,TweetDeck,433,75
-"b""Want to be the first to know when @NASAInSight is ready for its #MarsLanding?\n\nYeah, us too! Just hit 'like' on thi\xe2\x80\xa6 https://t.co/9NzJTDJWXp""",1064564025466351616,140,2018-11-19 17:00:16,Twitter Ads Composer,60675,5804
+"b""Want to be the first to know when @NASAInSight is ready for its #MarsLanding?\n\nYeah, us too! Just hit 'like' on thi\xe2\x80\xa6 https://t.co/9NzJTDJWXp""",1064564025466351616,140,2018-11-19 17:00:16,Twitter Ads Composer,60674,5804
 "b'RT @NewsHour: WATCH on #Periscope: @staceyabrams, the Democratic candidate for governor in Georgia, holds a news conference. #GAgov https:/\xe2\x80\xa6'",1063554271554228224,140,2018-11-16 22:07:52,TweetDeck,0,33
 "b'RT @NBCNews: LIVE: @PattersonNBC reports from an wildfire evacuee shelter in Chico, California. https://t.co/G0ahHi4azL https://t.co/4G7FMW\xe2\x80\xa6'",1063533210599084034,140,2018-11-16 20:44:11,Twitter for  iPhone,0,58
 b'RT @ABCNewsLive: HAPPENING NOW: The @ABCPolitics team has the top stories in politics https://t.co/QgRfEBfclZ',1063532202745622529,109,2018-11-16 20:40:11,TweetDeck,0,11
@@ -665,7 +665,7 @@ b'WATCH NOW: Continuing live #ElectionDay coverage #Midterms2018 https://t.co/R0
 b'RT @BostonGlobe: \xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9c#ElectionDay 2018\xe2\x80\x9d\n\nhttps://t.co/uxDvpym8Zu',1059969964596174848,64,2018-11-07 00:45:07,TweetDeck,0,2
 b'RT @TexasTribune: LIVE: We\xe2\x80\x99re bringing you #Midterms2018 results out of Texas with @KXAN_News. Tune in live here for results and analysis.\xe2\x80\xa6',1059962170421768192,139,2018-11-07 00:14:09,TweetDeck,0,42
 b'RT @BloombergTV: WATCH: Live midterm election results and market analysis \xe2\x96\xb6\xef\xb8\x8fhttps://t.co/6zudbJyh3b',1059961271527845888,99,2018-11-07 00:10:34,TweetDeck,0,10
-"b""RT @ABC: YOUR VOICE, YOUR VOTE: @ABC's complete coverage of the 2018 midterm elections starts NOW. #Midterms2018 https://t.co/9mZGZKXrKs""",1059960455156953088,136,2018-11-07 00:07:20,TweetDeck,0,42
+"b""RT @ABC: YOUR VOICE, YOUR VOTE: @ABC's complete coverage of the 2018 midterm elections starts NOW. #Midterms2018 https://t.co/9mZGZKXrKs""",1059960455156953088,136,2018-11-07 00:07:20,TweetDeck,0,41
 "b""RT @ABCNewsLive: #ElectionDay: @ABC's complete coverage of the 2018 midterm elections https://t.co/78e9I7CqYl""",1059959545299116033,109,2018-11-07 00:03:43,TweetDeck,0,5
 b'RT @FoxNews: We are live now with a special Fox Nation Election Night livestream! Get instant opinion and unfiltered conversation about the\xe2\x80\xa6',1059959372313440256,140,2018-11-07 00:03:02,TweetDeck,0,400
 "b""RT @BuzzFeedNews: It's Election Day and results are pouring in! We're breaking down races from across the nation and helping you figure it\xe2\x80\xa6""",1059958387193114624,139,2018-11-06 23:59:07,TweetDeck,0,206
@@ -712,7 +712,7 @@ b'RT @Reuters: What are the stakes for healthcare in #Midterms2018? Experts disc
 "b'RT @postlive: Live now: Larry Kudlow, Bluemercury CEO Marla Beck &amp; more talk small business at #PostLive https://t.co/nNRH4wa10n'",1057990692662886401,132,2018-11-01 13:40:12,TweetDeck,0,6
 b'RT @ABCPolitics: HAPPENING NOW: The ABC Politics team has the top stories in politics https://t.co/2VE73rA4Qf',1057717457081823232,109,2018-10-31 19:34:27,TweetDeck,0,11
 "b'RT @FoxBusiness: Watch LIVE: @POTUS participates in a discussion on the ""nation\xe2\x80\x99s growing economy"" and his administration\xe2\x80\x99s ""workforce deve\xe2\x80\xa6'",1057705017975685120,140,2018-10-31 18:45:02,TweetDeck,0,45
-"b'RT @NBCNews: LIVE: With less than a week until Election Day, @SteveKornacki takes a look at the state of the House races and which ones are\xe2\x80\xa6'",1057664023708213248,140,2018-10-31 16:02:08,TweetDeck,0,110
+"b'RT @NBCNews: LIVE: With less than a week until Election Day, @SteveKornacki takes a look at the state of the House races and which ones are\xe2\x80\xa6'",1057664023708213248,140,2018-10-31 16:02:08,TweetDeck,0,109
 "b""It's Red Sox parade day in Boston \xe2\x9a\xbe\xef\xb8\x8f #redsoxparade https://t.co/KXPc0irxkO""",1057660768513081345,74,2018-10-31 15:49:12,TweetDeck,15,6
 "b'RT @USATODAY: Fans line streets near Fenway Park to celebrate World Series champions, the Boston Red Sox in their victory parade. https://t\xe2\x80\xa6'",1057654507134427136,140,2018-10-31 15:24:19,Twitter for iPhone,0,70
 "b""RT @vicenews: \xf0\x9f\x9a\x80\xf0\x9f\x9a\x80\xf0\x9f\x9a\x80\n\nHow are planets born? This technology could tell us.\n\nToday on the #NewSpaceRace, we're back at @NASAJPL. Tune in live o\xe2\x80\xa6""",1057627389319176192,140,2018-10-31 13:36:34,Twitter for iPhone,0,4
@@ -782,7 +782,7 @@ b'RT @Reuters: New York officials brief on suspicious package at CNN https://t.c
 "b""RT @NewsHour: WATCH on #Periscope: NYPD Commissioner James O'Neill (@NYPDONeill), @NYCMayor Bill de Blasio and others provide update after\xe2\x80\xa6""",1055138814837039105,139,2018-10-24 16:47:51,Twitter for  iPhone,0,22
 b'RT @ABC: HAPPENING NOW: Hillary Clinton speaks at fundraiser in Florida after an explosive device was sent to her New York home. https://t.\xe2\x80\xa6',1055135148130361345,140,2018-10-24 16:33:17,Twitter for  iPhone,0,208
 "b'LIVE COVERAGE: Suspicious devices sent to Clintons, Obamas and CNN\xe2\x80\x99s NY offices https://t.co/yM6Mmk5S1a'",1055114819567841280,103,2018-10-24 15:12:30,TweetDeck,9,13
-b'RT @ABC: HAPPENING NOW: Explosive devices addressed to Hillary Clinton and Obama are intercepted https://t.co/3CWQtTalJc',1055112554727518208,120,2018-10-24 15:03:30,Twitter for  iPhone,0,886
+b'RT @ABC: HAPPENING NOW: Explosive devices addressed to Hillary Clinton and Obama are intercepted https://t.co/3CWQtTalJc',1055112554727518208,120,2018-10-24 15:03:30,Twitter for  iPhone,0,885
 b'RT @NBCNews: LIVE: @NBCNews Special Report: Latest on suspicious packages being sent to public figures. https://t.co/lNQXMURP9f https://t.c\xe2\x80\xa6',1055112421776465920,140,2018-10-24 15:02:59,TweetDeck,0,131
 b'RT @vicenews: We\xe2\x80\x99re testing rocket engines today! Tune in LIVE on @Twitter at 2 PM EDT / 11 AM PDT \xf0\x9f\x9a\x80\n\nAnd don\xe2\x80\x99t forget to send us your rock\xe2\x80\xa6',1055065091857661952,140,2018-10-24 11:54:54,TweetDeck,0,19
 "b""WATCH LIVE: @DenverChannel hosts tonight's final #COGovDebate between @WalkerStapleton and @PolisForCO.\nhttps://t.co/eywSAK0IZI""",1054885601672085504,127,2018-10-24 00:01:40,TweetDeck,11,5
@@ -797,7 +797,7 @@ b'RT @latimes: A caravan of immigrants continues its march through Mexico and to
 "b""\xf0\x9f\x9a\x80 Happening Now: Vice News' is LIVE on @Twitter\n\xf0\x9f\x93\xb1 Tune in via @vicenews\n\xf0\x9f\x92\xac Join the conversation using #NewSpaceRace\xe2\x80\xa6 https://t.co/VEqUCCFy6C""",1054794100048826368,140,2018-10-23 17:58:05,TweetDeck,224,33
 "b'RT @DenverChannel: TONIGHT: The final debate between @PolisForCO and @WalkerStapleton, hosted by @DenverChannel, @denverpost and @CAPatDU a\xe2\x80\xa6'",1054786328905347072,140,2018-10-23 17:27:12,TweetDeck,0,4
 b'RT @NBCNews: LIVE: National Security Advisor Bolton holds news conference after series of meetings with Russian officials in Moscow. https:\xe2\x80\xa6',1054780230626369536,140,2018-10-23 17:02:58,Twitter for  iPhone,0,29
-"b""Coming \xf0\x9f\x94\x9c: Tune in @vicenews' #NewSpaceRace at 2 pm ET / 11 am PT \xe2\xac\x87\xef\xb8\x8f https://t.co/iFVyneTPfs""",1054778130353844224,91,2018-10-23 16:54:37,TweetDeck,6,3
+"b""Coming \xf0\x9f\x94\x9c: Tune in @vicenews' #NewSpaceRace at 2 pm ET / 11 am PT \xe2\xac\x87\xef\xb8\x8f https://t.co/iFVyneTPfs""",1054778130353844224,91,2018-10-23 16:54:37,TweetDeck,5,3
 b'RT @NBCNews: LIVE: Race for the House: @SteveKornacki looks at the most competitive House races with 2 weeks to go until midterms --&gt; https\xe2\x80\xa6',1054767214585413632,143,2018-10-23 16:11:15,TweetDeck,0,54
 "b""RT @ABCNewsLive: Turkish President says Saudis' killing of Jamal Khashoggi was \xe2\x80\x9csavagely planned\xe2\x80\x9d\nhttps://t.co/h6QxDalwZl""",1054750602301988864,121,2018-10-23 15:05:14,TweetDeck,0,18
 b'RT @vicenews: Today\xe2\x80\x99s episode of #NewSpaceRace is all about space suits! \n\nSend us your questions about the awesome gear we\xe2\x80\x99re sending our\xe2\x80\xa6',1054743101124816896,139,2018-10-23 14:35:26,Twitter Web Client,0,10
@@ -1262,7 +1262,7 @@ b'RT @ABC: STARTING NOW: Rep. John Lewis joins The Briefing Room to discuss the 
 b'Happening Now!\n\n@cheddar is LIVE on Twitter with #CheddarLIVE. Tap below to tap now. \xe2\xa4\xb5\xef\xb8\x8f https://t.co/SV9WbaSHhy',1030167310735212545,111,2018-08-16 19:00:01,TweetDeck,4,2
 b'RT @ABC: WATCH: Pres. Trump holds Cabinet meeting at the White House. https://t.co/G2YaYbajub',1030139234060001281,93,2018-08-16 17:08:27,TweetDeck,0,19
 b'RT @BostonGlobe: \xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9c350+ newsrooms around the country are defending the #FreePress\xe2\x80\x9d\n\nhttps://t.co/KzQTL8Z1Yd',1030137030678913029,109,2018-08-16 16:59:41,TweetDeck,0,53
-"b'RT @ABC: .@ABC NEWS SPECIAL REPORT: Legendary singer Aretha Franklin, The Queen of Soul, has passed away, according to the Associated Press\xe2\x80\xa6'",1030094134302986240,140,2018-08-16 14:09:14,Twitter for  iPhone,0,4333
+"b'RT @ABC: .@ABC NEWS SPECIAL REPORT: Legendary singer Aretha Franklin, The Queen of Soul, has passed away, according to the Associated Press\xe2\x80\xa6'",1030094134302986240,140,2018-08-16 14:09:14,Twitter for  iPhone,0,4332
 "b""RT @NBCNightlyNews: LIVE: @LesterHoltNBC brings you today's top stories, including his exclusive interview with Twitter CEO @jack Dorsey.\xe2\x80\xa6""",1029858144053329921,138,2018-08-15 22:31:30,Twitter for  iPhone,0,38
 b'Bloomberg Technology is streaming LIVE on Twitter! \n\nTap here to watch now. \xe2\xa4\xb5\xef\xb8\x8f https://t.co/omjoxbnlkr',1029835123573895170,102,2018-08-15 21:00:01,TweetDeck,5,2
 "b""Starting Now!\n\n@markets is LIVE on Twitter with What'd You Miss. Watch here now. \xe2\xac\x87\xef\xb8\x8f\nhttps://t.co/JApQ7W3Dpk""",1029820018836393984,107,2018-08-15 20:00:00,TweetDeck,5,5
@@ -1343,7 +1343,7 @@ b'Watch Now!\n\n@markets is LIVE on Twitter with What\xe2\x80\x99d You Miss. Wat
 b'Starting Now!\n\n#CheddarLIVE is streaming LIVE on Twitter. Tap here to watch now. \xe2\xac\x87\xef\xb8\x8f https://t.co/SV9WbaSHhy',1025456540139106304,107,2018-08-03 19:01:05,Twitter for  iPhone,5,4
 "b'RT @ABC: STARTING NOW: @tarapalmeri reports from Bedminster, NJ after a week of raucous Trump rallies.\n\n@KFaulders has the latest from the\xe2\x80\xa6'",1025396742391562241,139,2018-08-03 15:03:28,Twitter for  iPhone,0,34
 b'#AM2DM is LIVE! \n\nTap here to watch the show and join the conversation. \xf0\x9f\x91\x87https://t.co/MjgBh6PHMT',1025380728610144257,96,2018-08-03 13:59:51,TweetDeck,5,2
-"b'RT @FoxNews: .@POTUS holds a ""Make America Great Again"" rally in Pennsylvania. https://t.co/LL0N6YrQy0 https://t.co/t3xnLR6dxO'",1025154718668972032,126,2018-08-02 23:01:46,Twitter for  iPhone,0,1033
+"b'RT @FoxNews: .@POTUS holds a ""Make America Great Again"" rally in Pennsylvania. https://t.co/LL0N6YrQy0 https://t.co/t3xnLR6dxO'",1025154718668972032,126,2018-08-02 23:01:46,Twitter for  iPhone,0,1034
 b'Watch Now!\n\n@technology is LIVE on Twitter with Bloomberg Technology. Tap below to watch now. \xe2\xa4\xb5\xef\xb8\x8f https://t.co/omjoxb5JVR',1025124081216061440,120,2018-08-02 21:00:01,TweetDeck,5,2
 "b""Starting Now!\n\n@markets is LIVE on Twitter with What'd You Miss. Watch here now. \xe2\xac\x87\xef\xb8\x8f\nhttps://t.co/JApQ7VM2xM""",1025110225517518850,107,2018-08-02 20:04:58,TweetDeck,10,7
 b'Happening Now!\n\n@cheddar is LIVE on Twitter. tap here to watch now. \xe2\xa4\xb5\xef\xb8\x8f https://t.co/SV9WbaSHhy',1025095277089382400,94,2018-08-02 19:05:34,TweetDeck,9,5
@@ -1449,7 +1449,7 @@ b'\xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cHow a 10-year-old launched a T-shirt sens
 b'Happening Now!\n\n#CheddarLIVE is streaming LIVE on Twitter. \xe2\xac\x87\xef\xb8\x8f https://t.co/SV9WbaB5SY',1019295674683174913,85,2018-07-17 19:00:01,TweetDeck,6,3
 b'RT @ABC: .@ABC NEWS SPECIAL REPORT: Pres. Trump addresses his summit with Vladimir Putin amid widespread bipartisan criticism. https://t.co\xe2\x80\xa6',1019293514738356224,140,2018-07-17 18:51:26,TweetDeck,0,91
 "b""RT @CNBC: LIVE: Fed Chair Jerome Powell presents the central bank's semiannual monetary policy report before Congress. https://t.co/bXsHEw3\xe2\x80\xa6""",1019220997218668544,140,2018-07-17 14:03:16,Twitter for  iPhone,0,22
-"b""Don't miss it!\n\n#AM2DM is streaming LIVE on Twitter. Tap here to watch now.\xf0\x9f\x91\x87 https://t.co/Wn5vs1VIWN""",1019220175642488833,100,2018-07-17 14:00:00,TweetDeck,8,2
+"b""Don't miss it!\n\n#AM2DM is streaming LIVE on Twitter. Tap here to watch now.\xf0\x9f\x91\x87 https://t.co/Wn5vs1VIWN""",1019220175642488833,100,2018-07-17 14:00:00,TweetDeck,7,2
 "b""RT @NBCNews: LIVE: Former President Obama speaks at Nelson Mandela's centenary in Johannesburg, South Africa. https://t.co/Qu17r9zZBF""",1019214888982470657,133,2018-07-17 13:39:00,Twitter for  iPhone,0,1051
 b'Watch Now!\n\n#DayBreak is streaming LIVE on Twitter. Tap below to watch now. \xe2\xa4\xb5\xef\xb8\x8f  https://t.co/RsH6PR5JzE',1019174875519283201,103,2018-07-17 11:00:00,TweetDeck,7,3
 "b""\xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cPutin denies having dirt on Trump, calls meddling charge 'ridiculous' \xe2\x80\x9d by @FoxNews https://t.co/CskfkvReA7""",1018993652310274053,111,2018-07-16 22:59:53,TweetDeck,8,4
@@ -1585,7 +1585,7 @@ b'Starting Now!\n\n@technology is LIVE on Twitter with Bloomberg Technology. \xe
 "b""Watch Now!\n\n@markets is LIVE on Twitter with What'd You Miss. \xe2\xac\x87\xef\xb8\x8f\nhttps://t.co/JApQ7W3Dpk""",1010251076493197312,88,2018-06-22 20:00:00,TweetDeck,4,2
 b'RT @FoxNews: Sen. @JohnCornyn and @SenTedCruz make remarks after touring immigrant detention facilities for children in Texas.  (Courtesy:\xe2\x80\xa6',1010248581092118531,139,2018-06-22 19:50:05,TweetDeck,0,228
 b'Watch Now!\n\n#CheddarLIVE is streaming LIVE on Twitter. \xe2\xac\x87\xef\xb8\x8f https://t.co/SV9WbaB5SY',1010235982191316992,81,2018-06-22 19:00:02,TweetDeck,4,2
-b'RT @FoxNews: .@POTUS delivers remarks on immigration with Angel Families https://t.co/GavzeVAhEi',1010231323829600256,96,2018-06-22 18:41:31,TweetDeck,0,890
+b'RT @FoxNews: .@POTUS delivers remarks on immigration with Angel Families https://t.co/GavzeVAhEi',1010231323829600256,96,2018-06-22 18:41:31,TweetDeck,0,891
 b'RT @ABC: HAPPENING NOW: Sen. Marco Rubio is interrupted by protesters ahead of tour of temporary shelter housing migrant children. https://\xe2\x80\xa6',1010225878977142784,140,2018-06-22 18:19:53,TweetDeck,0,145
 b'RT @Circa: Democratic Leader Pelosi and Whip Hoyer hold a press conference on the GOP tax legislation. https://t.co/sal0SRhQsT',1010202561838804992,126,2018-06-22 16:47:14,Twitter for  iPhone,0,3
 "b'RT @FoxBusiness: .@SecPompeo delivers remarks on ""Promoting Global Economic Prosperity"" at the SelectUSA investment summit. https://t.co/GR\xe2\x80\xa6'",1010187048081395713,140,2018-06-22 15:45:35,TweetDeck,0,20
@@ -2024,7 +2024,7 @@ b'Happening Now!\n\n@cheddar is LIVE on Twitter. Go to https://t.co/SV9WbaSHhy t
 b'RT @NBCNews: LIVE: White House press briefing https://t.co/7bY3wLoAVz',991389550529347586,69,2018-05-01 18:51:02,TweetDeck,0,72
 b'LIVE Q&amp;A with #RBGMovie directors @Betsywest @FilmmakerJulie at @TwitterNYC https://t.co/CFgaNrJOJQ',991385591701962758,103,2018-05-01 18:35:18,TweetDeck,8,2
 "b'RT @NewsHour: WATCH: #periscope: Deputy AG Rod Rosenstein speaks on rule of law, DOJ mission for #LawDay https://t.co/EmFinpnK5s'",991378057838686208,128,2018-05-01 18:05:22,TweetDeck,0,30
-"b""\xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cComedian Michelle Wolf: 'I'm Glad I Stuck To My Guns'\xe2\x80\x9d by @NPR https://t.co/gvor2g28k6""",991361141036199936,90,2018-05-01 16:58:09,TweetDeck,23,9
+"b""\xe2\x9a\xa1\xef\xb8\x8f \xe2\x80\x9cComedian Michelle Wolf: 'I'm Glad I Stuck To My Guns'\xe2\x80\x9d by @NPR https://t.co/gvor2g28k6""",991361141036199936,90,2018-05-01 16:58:09,TweetDeck,23,8
 "b""RT @FoxNews: President @realDonaldTrump presents the Commander in Chief's Trophy to the U.S. Military Academy Football Team https://t.co/is\xe2\x80\xa6""",991348685790482432,140,2018-05-01 16:08:39,TweetDeck,0,353
 "b""Don't miss it!\n\n#AM2DM is LIVE on Twitter with guest @choitotheworld. Go to @am2dm to watch along with LIVE comment\xe2\x80\xa6 https://t.co/YYPGL2AiXy""",991316316572209152,140,2018-05-01 14:00:02,TweetDeck,6,3
 b'Happening Now!\n\n#DayBreak is streaming LIVE on Twitter. Tap below to watch now. \xe2\xa4\xb5\xef\xb8\x8f  https://t.co/RsH6PR5JzE',991271010656636928,107,2018-05-01 11:00:00,TweetDeck,5,3
@@ -2529,7 +2529,7 @@ b'Watch Now!\n\n@technology is LIVE on Twitter with Bloomberg Technology. Watch 
 "b""Starting Now!\n\n@markets is LIVE on Twitter with What'd You Miss. Go to \nhttps://t.co/JApQ7W3Dpk to watch.""",966417251304747008,105,2018-02-21 21:00:02,TweetDeck,5,3
 b'Happening Now!\n\n@cheddar is LIVE on Twitter with #CheddarLIVE. Tap below to watch now. \xe2\xac\x87\xef\xb8\x8f https://t.co/SV9WbaB5SY',966402155379703808,113,2018-02-21 20:00:03,TweetDeck,4,3
 b'Watch LIVE Now!\n\n#tictocnews is LIVE on Twitter. Follow @tictoc for 24/7 news updates and tap below to watch now. \xf0\x9f\x91\x87 \nhttps://t.co/m4SLV8LiHk',966394595465601024,140,2018-02-21 19:30:00,TweetDeck,6,1
-"b'RT @TweetDeck: To keep Twitter safe and free from spam, today we are announcing changes to TweetDeck to no longer allow simultaneous action\xe2\x80\xa6'",966380858025365509,140,2018-02-21 18:35:25,TweetDeck,0,709
+"b'RT @TweetDeck: To keep Twitter safe and free from spam, today we are announcing changes to TweetDeck to no longer allow simultaneous action\xe2\x80\xa6'",966380858025365509,140,2018-02-21 18:35:25,TweetDeck,0,710
 b'RT @NBCNews: LIVE: Students rally for gun control legislation at the Florida State Capitol after the Parkland school shooting. https://t.co\xe2\x80\xa6',966362350612877313,140,2018-02-21 17:21:53,TweetDeck,0,1900
 "b'RT @NBCNews: LIVE: Students in Weston, Florida, walk out of classes to protest gun violence in wake of the Parkland school shooting https:/\xe2\x80\xa6'",966339822284689410,140,2018-02-21 15:52:22,TweetDeck,0,2999
 "b""Don't miss it!\n\n#AM2DM is LIVE on Twitter with guest @Ludacris. Tap below to watch along with LIVE commentary from\xe2\x80\xa6 https://t.co/FmY6dlqynS""",966326727206195201,139,2018-02-21 15:00:19,TweetDeck,8,4
@@ -2677,7 +2677,7 @@ b'RT @NBCNews: LIVE NBC News Special Report: Train carrying GOP lawmakers collid
 "b""Don't miss it!\n\n#AM2DM is streaming LIVE with guest @Simone_Biles.  Tap below to watch and join the conversation! \xf0\x9f\x91\x87 https://t.co/Wn5vs1VIWN""",958716509718683648,139,2018-01-31 15:00:02,TweetDeck,7,4
 b'RT @BuzzFeedNews: Not sure what the #SuperBlueBloodMoon is? @Zhirji28 is answering all of your questions right now! \xf0\x9f\x91\x87  https://t.co/bM9Cc9Y\xe2\x80\xa6',958693033033326592,140,2018-01-31 13:26:45,Twitter for iPhone,0,118
 b'https://t.co/Q8AgjGdXKg',958561938518298624,23,2018-01-31 04:45:50,TweetDeck,12,7
-b'RT @TwitterGov: https://t.co/Z5zXqmwkMe',958554446925049857,39,2018-01-31 04:16:03,TweetDeck,0,508
+b'RT @TwitterGov: https://t.co/Z5zXqmwkMe',958554446925049857,39,2018-01-31 04:16:03,TweetDeck,0,507
 "b""RT @TwitterGov: Here are the top Tweeted about people during @POTUS' #SOTU address. https://t.co/SoP9nGnxd5""",958551882401755138,107,2018-01-31 04:05:52,TweetDeck,0,250
 "b""RT @TwitterGov: These were the top Tweeted moments during @POTUS' #SOTU address. https://t.co/jNgfGReTO7""",958551833064165376,104,2018-01-31 04:05:40,TweetDeck,0,346
 "b""RT @TwitterGov: With 4.5M Tweets, @POTUS' speech tonight was the most Tweeted #SOTU or #JointSession address, surpassing the previous recor\xe2\x80\xa6""",958551795093078016,140,2018-01-31 04:05:31,TweetDeck,0,3068
@@ -2929,7 +2929,7 @@ b'RT @ABC: LIVE NOW: @ABC News Special Report: President Trump signs tax bill in
 b'Watch LIVE Now!\n\n#tictocnews is LIVE on Twitter. Follow @tictoc for 24/7 news updates and tap below to watch now. \xf0\x9f\x91\x87 \nhttps://t.co/m4SLV8tHPM',944220995858190336,140,2017-12-22 15:00:02,TweetDeck,9,3
 b'@BloombergTV is LIVE on Twitter with #DayBreak. Tune in Now! https://t.co/YXcDAfDTN1',944175695672102912,84,2017-12-22 12:00:02,TweetDeck,0,0
 b'Watch Now!\n\n@technology is LIVE on Twitter with Bloomberg Technology. Tune in to https://t.co/0aukAxj9t4 to watch.',943964304000405504,114,2017-12-21 22:00:02,TweetDeck,9,6
-b'RT @ABC: Happening now: Vice President Mike Pence addressing troops during unannounced trip to Afghanistan. https://t.co/lI873ig5u6',943958806987530240,131,2017-12-21 21:38:12,Twitter for  iPhone,0,622
+b'RT @ABC: Happening now: Vice President Mike Pence addressing troops during unannounced trip to Afghanistan. https://t.co/lI873ig5u6',943958806987530240,131,2017-12-21 21:38:12,Twitter for  iPhone,0,621
 "b""Starting now!\n\n@markets is LIVE on Twitter with What'd You Miss. Go to \nhttps://t.co/wg4lVjBqwX to watch.""",943949203734134784,105,2017-12-21 21:00:02,TweetDeck,9,6
 b'Happening Now! \n\n@cheddar is LIVE on Twitter. Head to https://t.co/QRgFQhv6XK to watch. #CheddarLIVE',943934102977343488,100,2017-12-21 20:00:02,TweetDeck,6,6
 b'.@NewsHour on #Periscope: @UN General Assembly votes on a resolution demanding the U.S. rescind its recognition of\xe2\x80\xa6 https://t.co/qMzltQMigY',943869200648548354,139,2017-12-21 15:42:08,Twitter for  iPhone,26,24
@@ -3110,7 +3110,7 @@ b'@Circuitbreaker is LIVE on Twitter! \n\nGet the latest tech news and watch the
 b'@AM2DM is LIVE! \n\nHead to https://t.co/xmE0wmguut to watch the show and join the conversation.',935161305371209729,94,2017-11-27 15:00:04,TweetDeck,0,0
 b'Starting Now!\n\n@BloombergTV is LIVE on Twitter with #DayBreak. Head to https://t.co/YXcDAfVuEz to watch.',935116004119547904,104,2017-11-27 12:00:03,TweetDeck,2,2
 b'Watch Now! \n\n@technology is LIVE on Twitter with Bloomberg Technology. Go to https://t.co/0aukAx1y4u to watch.',933455052018036736,110,2017-11-22 22:00:01,TweetDeck,5,5
-"b""RT @GMA: The balloons are being blown up for the Macy's Thanksgiving Day Parade tomorrow! https://t.co/FplwVf8vis https://t.co/MYVmOXQIZ5""",933443085241126912,137,2017-11-22 21:12:28,Twitter for  iPhone,0,169
+"b""RT @GMA: The balloons are being blown up for the Macy's Thanksgiving Day Parade tomorrow! https://t.co/FplwVf8vis https://t.co/MYVmOXQIZ5""",933443085241126912,137,2017-11-22 21:12:28,Twitter for  iPhone,0,168
 b'Starting Now! \n\n@cheddar is LIVE on Twitter. Watch #CheddarLIVE now at https://t.co/QRgFQhMHPi.',933424863582097408,95,2017-11-22 20:00:04,TweetDeck,7,7
 "b""RT @AM2DM: Check out some of the best moments from BuzzFeedNews' #AM2DM this week!\n\nFrom taking the perfect selfie to reimagining Gandalf a\xe2\x80\xa6""",933405007608762372,140,2017-11-22 18:41:10,Twitter for  iPhone,0,9
 b'@AM2DM is LIVE! \n\nTune in to https://t.co/xmE0wmy5m1 to  watch @harikondabolu and join the conversation.',933349360623960064,104,2017-11-22 15:00:03,TweetDeck,1,0
@@ -3127,7 +3127,7 @@ b'Starting Now!\n\n@BloombergTV is LIVE on Twitter. Head to https://t.co/YXcDAfV
 b'Watch Now!\n\n@technology is LIVE on Twitter with Bloomberg Technology. Go to https://t.co/0aukAx1y4u to watch.',932730281655541761,109,2017-11-20 22:00:03,TweetDeck,1,2
 "b""Happening Now!\n\n@markets is LIVE on Twitter with What'd You Miss. Go to \nhttps://t.co/wg4lVjBqwX to watch.""",932715186351374337,106,2017-11-20 21:00:04,TweetDeck,3,4
 b'RT @NewsHour: WATCH: #periscope: President Trump\xe2\x80\x99s @presssec @SHSanders45 holds @whitehouse news briefing. https://t.co/TJKTnpCjJW',932702164463636480,130,2017-11-20 20:08:19,TweetDeck,0,18
-"b""Don't miss it!\n\n@cheddar is streaming LIVE on Twitter. Head to https://t.co/QRgFQhv6XK to watch #CheddarLIVE.""",932700088681553920,109,2017-11-20 20:00:04,TweetDeck,57,13
+"b""Don't miss it!\n\n@cheddar is streaming LIVE on Twitter. Head to https://t.co/QRgFQhv6XK to watch #CheddarLIVE.""",932700088681553920,109,2017-11-20 20:00:04,TweetDeck,56,13
 b'Starting Now!\n\n@AM2DM is LIVE on Twitter with guest @ASAPferg. Watch now at https://t.co/xmE0wmy5m1 \xf0\x9f\x91\x87',932624575686254592,101,2017-11-20 15:00:00,TweetDeck,4,2
 "b'RT @AM2DM: This week on @BuzzFeedNews #AM2DM: @ASAPFerg, @thatonequeen, and more! Watch LIVE weekdays at 10 AM ET. https://t.co/F31NJHKE5y'",932350250236432384,138,2017-11-19 20:49:56,Twitter for  iPhone,0,14
 b'RT @CBC: Watch @CBCTheNational tonight at 9pm ET on Twitter \n\n#CBCTheNational https://t.co/0pS1uwBiDY',931641495429484544,101,2017-11-17 21:53:36,Twitter for  iPhone,0,17

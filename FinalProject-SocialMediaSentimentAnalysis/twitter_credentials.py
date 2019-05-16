@@ -1,5 +1,0 @@
-# Variables that contains the user credentials to access Twitter API 
-ACCESS_TOKEN = "710615083886317569-z7UygZrwPESPMiq7OmHWSm95FtgEuUk"
-ACCESS_TOKEN_SECRET = "mnXqTp0878xM2f5lJ3GKwqEy2VHFvh6OKH3lna4laz6vQ"
-CONSUMER_KEY = "06NUSzQGhwKBikbFqsopOL4YT" 
-CONSUMER_SECRET = "Pk0pHyYSDiGAiE5sYL4wjrYpV2aVa4jsZyU4RebmOkFTrNF8o3"
