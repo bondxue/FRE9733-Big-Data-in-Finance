@@ -173,6 +173,29 @@ After cleaning text, using TextBlob API to tag each tweet into Positive, Negativ
 + positive sentiment: 1
 + negative sentiment: 0
 
-### Classification Model
+### Create bag of words model
+ For the text processing, **nltk** library is used. Stemming is done using **PorterStemmer** as the tweets are 100% in english.
+ 
+### Classification Model Performance 
+#### Navie Bayes
+
+Result with accuracy at level of 76.7% seems to be quite nice result for such basic algorithm like Naive Bayes (having in mind that random classifier would yield result of around 50% accuracy). This performance may not hold for the final testing set. In order to see how the NaiveBayes performs in more general cases, 10-fold crossvalidation is used. This result still looks optimistic.
+
+#### Random Forest 
+
+We can see that the random forest performs even better than Navie Bayes with accuracy 88.5%.
+
+#### Plot of ROC curve 
+
+We can see that **Random Forest** is indeed better than **Navie Bayes** in our case in terms of *AUC*.
+
+#### Summary 
++ Experiment showed that prediction of text sentiment is a non-trivial task for machine learning. A lot of preprocessing is required just to be able to run any algorithm and see - usually not great - results.
++ Main problem for sentiment analysis is to craft the machine representation of the text. Simple **bag-of-words** was definitely not enough to obtain satisfying results, thus a lot of additional features were created basing on common sense (`number of emoticons`, `exclamation marks` etc.). Also, **Word2vec**  representation can raise the predictions quality.
+
++ Since it contained *highly skewed data* (small number of negative cases), the improvement in classfication accuracy for the given training dataset may be probably in the order of a few percent. 
+
++ The other thing that could possibly improve classification results will be to add a lot of additional examples (increase training dataset), because given 3000+ examples obviously do not contain every combination of words usage, moreover - a lot of emotion-expressing words surely are missing.
+
 
 
