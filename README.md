@@ -153,6 +153,7 @@ The goal of this project was to predict sentiment for 3000+ tweets by calling **
 
 ### Extract data from Twitter API
 Download 3000+ Tweets by calling Twitter's API and save them into a corpus CSV file.
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/download_tweets.PNG" width="700">
 
 
 ### Data preprocessing: data cleaning 
@@ -166,12 +167,17 @@ For the purpose of cleansing, the TwitterCleanup class was created. It consists 
 + Remove emojis
 + Remove News alerts like: `WATCH`, `LIVE` etc. 
 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/modified_tweets.PNG" width="700">
+
 ### Data preprocessing: data lebeling
 After cleaning text, using TextBlob API to tag each tweet into Positive, Negative, or Neutral. 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/distribution.PNG" width="700">
+
 
 ### Create dataset with positive & negative sentiment for classification 
 + positive sentiment: 1
 + negative sentiment: 0
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/dataset_class.PNG" width="500">
 
 ### Create bag of words model
  For the text processing, **nltk** library is used. Stemming is done using **PorterStemmer** as the tweets are 100% in english.
@@ -179,15 +185,22 @@ After cleaning text, using TextBlob API to tag each tweet into Positive, Negativ
 ### Classification Model Performance 
 #### Navie Bayes
 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/NavieBayes.PNG" width="500">
+
 Result with accuracy at level of 76.7% seems to be quite nice result for such basic algorithm like Naive Bayes (having in mind that random classifier would yield result of around 50% accuracy). This performance may not hold for the final testing set. In order to see how the NaiveBayes performs in more general cases, 10-fold crossvalidation is used. This result still looks optimistic.
 
 #### Random Forest 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/randomForest.PNG" width="500">
 
 We can see that the random forest performs even better than Navie Bayes with accuracy 88.5%.
 
 #### Plot of ROC curve 
 
+<img src="https://github.com/bondxue/FRE9733-Big-Data-in-Finance/blob/master/FinalProject-SocialMediaSentimentAnalysis/images/ROC.PNG" width="700">
+
 We can see that **Random Forest** is indeed better than **Navie Bayes** in our case in terms of *AUC*.
+
+
 
 #### Summary 
 + Experiment showed that prediction of text sentiment is a non-trivial task for machine learning. A lot of preprocessing is required just to be able to run any algorithm and see - usually not great - results.
