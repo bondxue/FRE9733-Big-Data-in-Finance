@@ -147,17 +147,55 @@ I adopt three topic models to group 2000 reviews
 
 ----------------------------------------------
 ## final project： social media sentiment analysis
-**updating soon..**
-### Objective 
-To design, build and validate a sentiment model based on social media data
-### Guidance: 
-1. Download 2000+ Tweets by calling Twitter's API (or from any other social media source), and save them into a corpus
-2. Come up with a method to tag each tweet into Positive, Negative, or Neutral Hints: There are at least two ways to do it: 
-  * Use emoticons to identify positive & negative sentiment 
-  * Use the dictionary of positive and negative words (attached) to identify positive and negative Tweets   
-3. Split the corpus into a training set and a validation set 
-4. Apply two classifiers to build a sentiment model (clean and transform data as needed) 
-5. Compare the model performance using precision/recall & ROC, and apply cross validation 
-6. Come up with a method to improve the performance (bonus point) 
-7. Visualize your result 
-8. Summarize your finding into a brief report
+
+### Abstract
+The goal of this project was to predict sentiment for 3000+ tweets by calling **Twitter's API** using Python. Sentiment analysis can predict many different emotions attached to the text, but in this report only 3 major were considered: `positive`, `neutral`, and `negative`. The training dataset was small (just over 3000 examples) and the data within it was highly skewed, which greatly impacted on the difficulty of building good classifier. I  utilize **bag-of-words** and apply both **Navie Bayes** and **Random Forest** classifictation, the classification accuracy at level of 88.5% was achieved.
+
+### Extract data from Twitter API
+Download 3000+ Tweets by calling Twitter's API and save them into a corpus CSV file.
+
+
+### Data preprocessing: data cleaning 
+For the purpose of cleansing, the TwitterCleanup class was created. It consists methods allowing to execute all of the tasks show in the list above. Most of those is done using regular expressions. The class exposes it's interface through iterate() method - it yields every cleanup method in proper order.
+
++ Remove URLs
++ Remove usernames (mentions)
++ Remove tweets with *Not Available* text
++ Remove special characters
++ Remove numbers
++ Remove emojis
++ Remove News alerts like: `WATCH`, `LIVE` etc. 
+
+### Data preprocessing: data lebeling
+After cleaning text, using TextBlob API to tag each tweet into Positive, Negative, or Neutral. 
+
+### Create dataset with positive & negative sentiment for classification 
++ positive sentiment: 1
++ negative sentiment: 0
+
+### Create bag of words model
+ For the text processing, **nltk** library is used. Stemming is done using **PorterStemmer** as the tweets are 100% in english.
+ 
+### Classification Model Performance 
+#### Navie Bayes
+
+Result with accuracy at level of 76.7% seems to be quite nice result for such basic algorithm like Naive Bayes (having in mind that random classifier would yield result of around 50% accuracy). This performance may not hold for the final testing set. In order to see how the NaiveBayes performs in more general cases, 10-fold crossvalidation is used. This result still looks optimistic.
+
+#### Random Forest 
+
+We can see that the random forest performs even better than Navie Bayes with accuracy 88.5%.
+
+#### Plot of ROC curve 
+
+We can see that **Random Forest** is indeed better than **Navie Bayes** in our case in terms of *AUC*.
+
+#### Summary 
++ Experiment showed that prediction of text sentiment is a non-trivial task for machine learning. A lot of preprocessing is required just to be able to run any algorithm and see - usually not great - results.
++ Main problem for sentiment analysis is to craft the machine representation of the text. Simple **bag-of-words** was definitely not enough to obtain satisfying results, thus a lot of additional features were created basing on common sense (`number of emoticons`, `exclamation marks` etc.). Also, **Word2vec**  representation can raise the predictions quality.
+
++ Since it contained *highly skewed data* (small number of negative cases), the improvement in classfication accuracy for the given training dataset may be probably in the order of a few percent. 
+
++ The other thing that could possibly improve classification results will be to add a lot of additional examples (increase training dataset), because given 3000+ examples obviously do not contain every combination of words usage, moreover - a lot of emotion-expressing words surely are missing.
+
+
+
